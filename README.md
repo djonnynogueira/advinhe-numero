@@ -1,0 +1,13 @@
+##Projeto Jogo adivinhe um número - **MDM Web Docs**
+
+###Construção de um simples jogo do tipo advinhe um número.
+
+####Tecnologias utilizadas:
+1. Html
+2. CSS
+3. JavaScript
+   
+
+---
+**MDM Web Docs**
+[title](https://developer.mozilla.org/pt-BR/docs/Learn/JavaScript/First_steps/A_first_splash)
