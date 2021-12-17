@@ -1,11 +1,11 @@
-##Projeto Jogo adivinhe um número - **MDM Web Docs**
+## Projeto Jogo adivinhe um número - **MDM Web Docs**
 
-###Construção de um simples jogo do tipo advinhe um número.
+### Construção de um simples jogo do tipo advinhe um número.
 
-####Tecnologias utilizadas:
-1. Html
-2. CSS
-3. JavaScript
+#### Tecnologias utilizadas:
+- Html
+- CSS
+- JavaScript
    
 
 ---
