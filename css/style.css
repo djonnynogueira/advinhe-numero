@@ -1,0 +1,19 @@
+*{
+    box-sizing: 0;
+    padding: 0;
+    margin: 0;
+}
+
+ .container{
+    width: 500px;
+    margin: 0 auto;
+    margin-top: 20px;
+    padding: 20px;
+    border: 1px solid;
+    text-align: center;
+} 
+
+.container-palpite{
+    margin-top: 20px;
+}
+
